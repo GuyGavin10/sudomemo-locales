@@ -5,22 +5,22 @@ msgid "SUDOMEMO"
 msgstr "Sudomemo"
 
 msgid "SUDOMEMO_THEATRE"
-msgstr "Sudomemo Theatre"
+msgstr "Theatr Sudomemo"
 
 msgid "SUDOMEMO_NEWS"
-msgstr "Sudomemo News"
+msgstr "Newyddion Sudomemo"
 
 msgid "SUDOMEMO_SHOP"
-msgstr "Sudomemo Shop"
+msgstr "Siop Sudomemo"
 
 msgid "SUDOMEMO_SHOP_META_DESCRIPTION"
-msgstr "Sudomemo Shop: Sudomemo merch, tickets for Plus and Stars, and other fun things!"
+msgstr "Siop Sudomemo: Nwyddau Sudomemo, Tocynnau am Plws ac Sêr, a phethau hwyl eraill!"
 
 msgid "DEFAULT_META_DESCRIPTION"
-msgstr "Sudomemo: Share your Flipnotes with the world! For Nintendo DSi and 3DS."
+msgstr "Sudomemo: Rhannu dy Flipnotes efo y byd! Am Nintendo DSi a 3DS."
 
 msgid "FRONTPAGE_TITLE_TAGLINE"
-msgstr "Sudomemo: Flipnote Hatena is back!"
+msgstr "Sudomemo: Mae Flipnote Hatena yn ôl!"
 
 msgid "VIEWPAGE_COMMENT_TEXTBOX"
 msgstr "Comment entry text box"
